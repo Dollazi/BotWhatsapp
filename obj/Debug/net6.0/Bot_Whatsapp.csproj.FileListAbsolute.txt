@@ -1,0 +1,36 @@
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Bot_Whatsapp.exe
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Bot_Whatsapp.deps.json
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Bot_Whatsapp.runtimeconfig.json
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Bot_Whatsapp.dll
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Bot_Whatsapp.pdb
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\bin\Debug\net6.0\WebDriver.dll
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.AssemblyReference.cache
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.AssemblyInfoInputs.cache
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.AssemblyInfo.cs
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.CoreCompileInputs.cache
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.CopyComplete
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.dll
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\refint\Bot_Whatsapp.dll
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.pdb
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\Bot_Whatsapp.genruntimeconfig.cache
+D:\Projetos\Bot Whatsapp\Bot_Whatsapp\obj\Debug\net6.0\ref\Bot_Whatsapp.dll
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Bot_Whatsapp.exe
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Bot_Whatsapp.deps.json
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Bot_Whatsapp.runtimeconfig.json
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Bot_Whatsapp.dll
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Bot_Whatsapp.pdb
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\BotWhatsapp\bin\Debug\net6.0\WebDriver.dll
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.AssemblyReference.cache
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.AssemblyInfoInputs.cache
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.AssemblyInfo.cs
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.CoreCompileInputs.cache
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.csproj.CopyComplete
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.dll
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\refint\Bot_Whatsapp.dll
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.pdb
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\Bot_Whatsapp.genruntimeconfig.cache
+D:\Projetos\BotWhatsapp\obj\Debug\net6.0\ref\Bot_Whatsapp.dll
